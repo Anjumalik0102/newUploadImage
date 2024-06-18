@@ -1,0 +1,23 @@
+.home{
+  padding-top: 100px;
+  display:flex;
+  width:100%;
+  justify-content: space-around;
+}
+
+.leftImageDiv ,.rightImageDiv{
+  width:45%;
+  /* height:100vh; */
+  height: 85vh;
+  overflow-y: hidden;
+  border:1px dashed black;
+
+
+}
+
+.image1{
+  border-right: 1px dashed black;
+  border-bottom:1px dashed black;
+  width:20%;
+  height:20%;
+}
